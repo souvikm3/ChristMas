@@ -331,14 +331,15 @@ a {
 
 /* copyright */
 
-.copyright
+.footer
 {
-     width: 100%;
-     /* text-align: center; */
-     padding: 25px 0;
-     background: #000000;
-     font-weight: 300;
-     margin-bottom: 80px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 
 
 }
